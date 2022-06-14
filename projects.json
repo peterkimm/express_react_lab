@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Project1",
+      "live": "https://chipper-jelly-222760.netlify.app/",
+      "git": "https://github.com/peterkimm/Project-1",
+      "image": "https://user-images.githubusercontent.com/103865078/168199070-feb40228-1b5b-4894-9afe-a43ae4d08ff7.png"
+    },
+    {
+      "name": "Project-2-LL-EAT",
+      "live": "https://ll-eat.herokuapp.com/",
+      "git": "https://github.com/peterkimm/Project-2-LL-EAT",
+      "image": "https://user-images.githubusercontent.com/103865078/171806813-b6d38c79-c284-4f5a-8117-529d61bb8ec8.png"
+    }
+  ]
